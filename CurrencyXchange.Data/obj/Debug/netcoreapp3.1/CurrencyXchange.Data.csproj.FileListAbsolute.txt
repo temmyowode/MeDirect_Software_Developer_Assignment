@@ -1,0 +1,10 @@
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\bin\Debug\netcoreapp3.1\CurrencyXchange.Data.deps.json
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\bin\Debug\netcoreapp3.1\CurrencyXchange.Data.dll
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\bin\Debug\netcoreapp3.1\CurrencyXchange.Data.pdb
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\obj\Debug\netcoreapp3.1\CurrencyXchange.Data.csproj.AssemblyReference.cache
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\obj\Debug\netcoreapp3.1\CurrencyXchange.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\obj\Debug\netcoreapp3.1\CurrencyXchange.Data.AssemblyInfoInputs.cache
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\obj\Debug\netcoreapp3.1\CurrencyXchange.Data.AssemblyInfo.cs
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\obj\Debug\netcoreapp3.1\CurrencyXchange.Data.csproj.CoreCompileInputs.cache
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\obj\Debug\netcoreapp3.1\CurrencyXchange.Data.dll
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXchange.Data\obj\Debug\netcoreapp3.1\CurrencyXchange.Data.pdb

@@ -1,0 +1,17 @@
+{
+    "ConnectionStrings": {
+        "DefaultConnection": "Server=AXINDCELAP4776\\SQLEXPRESS;Database=CurrencyXchange;persist security info=True;user id=sa;password=Password;MultipleActiveResultSets=true;TrustServerCertificate=true"
+    },
+    "ExchangeSetting": {
+        "Url": "https://api.apilayer.com/exchangerates_data/latest?base={baseCurrency}",
+        "APIKey": "KNaTiSaXKhutcBfb3uukwLfqtD0e4OrI",
+        "BaseCurrency": "EUR"
+    },
+    "CacheSetting": {
+        "Duration": 30
+    },
+    "TransactionSetting": {
+        "Limit": 10,
+        "Duration": 60
+    }
+}

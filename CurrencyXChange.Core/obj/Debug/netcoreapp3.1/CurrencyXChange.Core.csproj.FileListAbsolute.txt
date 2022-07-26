@@ -1,0 +1,13 @@
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\bin\Debug\netcoreapp3.1\CurrencyXChange.Core.deps.json
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\bin\Debug\netcoreapp3.1\CurrencyXChange.Core.dll
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\bin\Debug\netcoreapp3.1\CurrencyXChange.Core.pdb
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\bin\Debug\netcoreapp3.1\CurrencyXchange.Data.dll
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\bin\Debug\netcoreapp3.1\CurrencyXchange.Data.pdb
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\obj\Debug\netcoreapp3.1\CurrencyXChange.Core.csproj.AssemblyReference.cache
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\obj\Debug\netcoreapp3.1\CurrencyXChange.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\obj\Debug\netcoreapp3.1\CurrencyXChange.Core.AssemblyInfoInputs.cache
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\obj\Debug\netcoreapp3.1\CurrencyXChange.Core.AssemblyInfo.cs
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\obj\Debug\netcoreapp3.1\CurrencyXChange.Core.csproj.CoreCompileInputs.cache
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\obj\Debug\netcoreapp3.1\CurrencyXChange.Core.csproj.CopyComplete
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\obj\Debug\netcoreapp3.1\CurrencyXChange.Core.dll
+C:\Temmy\MeDirect_Software_Developer_Assignment\CurrencyXChange.Core\obj\Debug\netcoreapp3.1\CurrencyXChange.Core.pdb
